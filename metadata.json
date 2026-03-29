@@ -1,0 +1,5 @@
+{
+  "name": "2026 濟州島互動旅遊地圖",
+  "description": "一個互動式的濟州島旅遊行程地圖，包含日期切換、路線顯示與景點備註。",
+  "requestFramePermissions": ["geolocation"]
+}
